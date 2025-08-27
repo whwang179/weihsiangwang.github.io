@@ -26,7 +26,7 @@ author:
   name             : "Wei-Hsiang Wang (汪煒翔)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : ""
+  location         : "Greenville, NC, USA"
   employer         : ""
   uri              : # URL
   email            : "whwang0217@gmail.com" 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
