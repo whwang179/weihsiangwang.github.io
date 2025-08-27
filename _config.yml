@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Greenville, NC, USA"
-  employer         : ""
+  #employer         : ""
   uri              : # URL
   email            : "whwang0217@gmail.com" 
 
